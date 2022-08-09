@@ -13,3 +13,6 @@ Then you need to create a **`config.json`** file in which you are going to put t
 
 ## Usage
 Invite your bot in a selected server using the *Discord Dev* interface, then connect to a channel and start using the bot with the prefix you selected during the setup!
+
+>For example here: 
+`!play https://youtu.be/nFk20L7MrDw`
