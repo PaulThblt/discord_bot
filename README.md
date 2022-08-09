@@ -1,6 +1,8 @@
 # Discord Music Bot
 ## Setup
-First you need to create a **`config.json`** file in which you are going to put the prefix you want to invoke your bot to and your discord bot token :
+Clone the repository, then install all the dependencies with ***`npm install`***
+
+Then you need to create a **`config.json`** file in which you are going to put the prefix you want to invoke your bot to and your discord bot token :
 ```
 {
   "prefix": "!",
