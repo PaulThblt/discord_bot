@@ -3,8 +3,8 @@
 First you need to create a **`config.json`** file in which you are going to put the prefix you want to invoke your bot to and your discord bot token :
 ```
 {
-  prefix: "!",
-  token: YOUR_DISCORD_BOT_TOKEN
+  "prefix": "!",
+  "token": YOUR_DISCORD_BOT_TOKEN
 }
 ```
 >Note: to create a discord bot token, go to https://discord.com/developers/applications
